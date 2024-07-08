@@ -1,0 +1,6 @@
+if game.PlaceId == 301549746 or game.PlaceId == 1869597719 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zypher32/zyn.cc/main/Protected_8206229512961191.txt"))()
+end
+if game.PlaceId == 14939963714 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zypher32/zyn.cc/main/jailbirdrewirte"))()
+end
